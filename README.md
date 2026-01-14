@@ -11,7 +11,7 @@
 ---
 
 ### 🚧 Currently Building
-- 🎮 PixelGame — *A 2D rouge like dungeon crawler as a hobby*
+- Finished "Song-Go" a music app that lets you download songs for offline use 
 ---
 
 ### 💻 Programming Languages / Frameworks
